@@ -44,10 +44,10 @@
 	<body>
 		<div id="app">
 			<div class="row">
-				<div class="col-7">
+				<div class="col-7 bg-primary text-white">
 					coucou les gens!
 				</div>
-				<div class="col">
+				<div class="col bg-success text-white">
 					C'est un test
 				</div>
 			</div>
