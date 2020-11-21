@@ -48,7 +48,8 @@
 					coucou les gens!
 				</div>
 				<div class="col bg-success text-white">
-					C'est un test
+					Mon premier GIST <br>
+					<script src="https://gist.github.com/GuillaumeBiondo/d0b8ba9b93f59a5efecabf0e3f14b480.js"></script>
 				</div>
 			</div>
 		</div>
