@@ -47,6 +47,9 @@
 				<div class="col-7">
 					coucou les gens!
 				</div>
+				<div class="col">
+					C'est un test
+				</div>
 			</div>
 		</div>
 	</body>
