@@ -44,8 +44,8 @@
 	<body>
 		<div id="app">
 			<div class="row">
-				<div class="col-6">
-					coucou
+				<div class="col-7">
+					coucou les gens!
 				</div>
 			</div>
 		</div>
