@@ -44,6 +44,9 @@
 	<body>
 		<div id="app">
 			<div class="row">
+				<div class="col-12">
+					<p>Juste pour créer un conflit et tester le merge</p>
+				</div>
 				<div class="col-7 bg-primary text-white">
 					coucou les gens!<br>
 					Ajout d'une modif
