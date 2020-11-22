@@ -45,7 +45,8 @@
 		<div id="app">
 			<div class="row">
 				<div class="col-12">
-					<p>Juste pour créer un conflit et tester le merge</p>
+					<p class="h1">Espace de test de mes composants vuejs</p>
+					<p><small>Juste pour créer un conflit et tester le merge</small></p>
 				</div>
 				<div class="col-7 bg-primary text-white">
 					coucou les gens!<br>
