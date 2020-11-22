@@ -45,7 +45,8 @@
 		<div id="app">
 			<div class="row">
 				<div class="col-7 bg-primary text-white">
-					coucou les gens!
+					coucou les gens!<br>
+					Ajout d'une modif
 				</div>
 				<div class="col bg-success text-white">
 					Mon premier GIST <br>
